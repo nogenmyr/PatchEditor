@@ -9,7 +9,7 @@ Short usage on a test case:
 ```
    cp -r $FOAM_TUTORIALS/mesh/snappyHexMesh/flange/ $FOAM_RUN
    run
-   cd flane
+   cd flange
    ./Allrun
    foamToSurface test.obj
 ```
